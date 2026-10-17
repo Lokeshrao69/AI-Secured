@@ -1,0 +1,36 @@
+Deccan Sunrise Multispeciality Hospital
+CLINICAL CASE NOTE - Department of General Surgery
+
+Patient Name: Srinivas Murthy
+Age / Sex: 22 years / Male
+UHID: DSH-26-749037
+Aadhaar No.: 3102 8594 0699
+Contact: +91-7632280886
+Address: Flat 105, Ramky Towers, Road No. 31, Banjara Hills, Hyderabad, Telangana 500034
+Attendant: Imran Patel (+91-9452912808)
+Date of Admission: 20 Mar 2026
+Consultant: Dr. Swathi Reddy
+
+Presenting Complaint:
+Periumbilical pain shifting to the right iliac fossa for 18 hours, with vomiting.
+
+History:
+No prior surgery. No comorbidities.
+
+Examination:
+Tenderness and guarding at McBurney's point, rebound tenderness positive. Temperature 100.8 F.
+
+Investigations:
+WBC 14,200/cumm. Ultrasound: non-compressible appendix 9 mm with periappendiceal fluid.
+
+Assessment:
+Acute appendicitis (Alvarado score 8).
+
+Plan:
+Laparoscopic appendectomy under general anaesthesia. Pre-operative IV cefuroxime and metronidazole.
+
+Progress:
+Mr. Murthy was monitored closely in the Semi-Private Ward. The treating team discussed the diagnosis,
+treatment plan and expected length of stay of about 3 days with the attendant, who gave informed consent.
+
+Signed: Dr. Swathi Reddy, Consultant, General Surgery

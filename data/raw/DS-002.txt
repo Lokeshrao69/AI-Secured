@@ -1,0 +1,33 @@
+Deccan Sunrise Multispeciality Hospital
+DISCHARGE SUMMARY - Department of Endocrinology
+
+Patient Name: Revathi Varma    Age / Sex: 34 / Female
+UHID: DSH-26-711388
+Phone: +91-8866283601    Email: revathi.varma10@gmail.com
+Address: Flat 606, Sai Residency, Road No. 2, Himayatnagar, Hyderabad, Telangana 500029
+Admitted: 05 Jan 2026    Discharged: 09 Jan 2026    Ward: HDU
+Treating Consultant: Dr. Rahul Menon
+
+Final Diagnosis:
+Diabetic ketoacidosis (DKA) in type 1 diabetes mellitus
+
+Procedure / Treatment:
+DKA management with IV insulin infusion
+
+Hospital Course:
+DKA protocol: 0.9% saline resuscitation, fixed-rate IV insulin infusion at 0.1 units/kg/hour, hourly glucose and 2-hourly potassium monitoring. The patient improved steadily and was discharged in stable condition on day 4.
+
+Discharge Medications:
+  1. Insulin glargine 18 units at bedtime
+  2. Insulin aspart 6 units before each meal
+  3. Tab. Ondansetron 4 mg as needed for nausea
+
+Nursing Care and Home Instructions:
+  - Check capillary blood glucose four times a day and keep a log
+  - Never skip basal insulin, even when unwell (sick-day rules explained)
+  - Check urine ketones if glucose is above 250 mg/dL
+  - Carry glucose tablets for hypoglycaemia
+
+Follow-up: Endocrinology OPD after 10 days with HbA1c.
+Discharge counselling given by Staff Nurse Fatima Bhat to the patient and attendant
+Lakshmi Naidu, contact +91 95475 17799.

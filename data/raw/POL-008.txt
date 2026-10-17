@@ -1,0 +1,11 @@
+Deccan Sunrise Multispeciality Hospital
+HOSPITAL POLICY POL-008: Fall Prevention and Patient Identification Policy
+Effective: 01 Apr 2026    Review: 31 Mar 2027
+
+Every inpatient is assessed with the Morse Fall Scale at admission, every shift and after any change in condition.
+Patients scoring 45 or above are high fall risk: they get a yellow wristband, bed in the lowest position, bed rails up,
+call bell within reach, non-slip footwear and supervised mobilisation.
+Elderly patients after hip surgery and patients on sedatives are treated as high fall risk by default.
+Every fall must be reported within 24 hours and reviewed by the Nursing Superintendent.
+Patient identification uses two identifiers, full name and UHID, checked against the wristband before giving medicines,
+blood transfusion, sample collection or any procedure. Bed number must never be used as an identifier.

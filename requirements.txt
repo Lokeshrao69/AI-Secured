@@ -1,0 +1,24 @@
+# Privacy-first hospital RAG assistant
+# Python 3.10+. Packages marked [s390x risk] may not have wheels for IBM LinuxONE;
+# each has a fallback (see README "Running on LinuxONE" and setup_check.py).
+
+# --- Core: pure Python or reliable s390x wheels ---
+numpy>=1.26
+requests>=2.31
+python-dotenv>=1.0
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+
+# --- Vector store ---  [s390x risk: Rust core, onnxruntime, no s390x wheels]
+# Fallback: VECTOR_BACKEND=simple (built-in pure-numpy store, same API)
+chromadb>=0.5
+
+# --- PII redaction (Phase 2) ---  [s390x risk: spaCy builds blis/thinc from C source]
+# Fallback: built-in regex redactor (REDACTOR=regex)
+presidio-analyzer>=2.2.355
+presidio-anonymizer>=2.2.355
+spacy>=3.7
+
+# --- UI (Phase 4) ---  [s390x risk: depends on pyarrow]
+# Fallback: install pyarrow from conda-forge or IBM's Python AI Toolkit for IBM Z and LinuxONE
+streamlit>=1.38

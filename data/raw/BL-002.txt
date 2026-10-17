@@ -1,0 +1,30 @@
+Deccan Sunrise Multispeciality Hospital
+FINAL BILL / INVOICE No. DSH/INV/2026/00002
+
+Patient Name: Revathi Varma
+UHID: DSH-26-711388
+Aadhaar (KYC): 9283 7929 8410    PAN: NVFPV3217Z
+Billing Address: Flat 606, Sai Residency, Road No. 2, Himayatnagar, Hyderabad, Telangana 500029
+Mobile: +91-8866283601    Email: revathi.varma10@gmail.com
+Department: Endocrinology    Admission: 05 Jan 2026 to 09 Jan 2026
+Payer: ICICI Lombard (reimbursement)
+
+Itemised Charges:
+  Room charges - HDU (4 days x Rs. 8,000.00)                                Rs. 32,000.00
+  Procedure - DKA management with IV insulin infusion                       Rs. 18,000.00
+  Consultation and doctor visit fees                                         Rs. 6,000.00
+  Pharmacy and consumables                                                  Rs. 31,400.00
+  Laboratory and radiology                                                  Rs. 24,100.00
+  Nursing charges                                                            Rs. 3,200.00
+
+Gross Amount:                Rs. 1,14,700.00
+Discount (self-pay 5%):      Rs. 0.00
+Covered by payer:            Rs. 0.00
+Advance deposit received:    Rs. 20,000.00
+Balance payable by patient:  Rs. 94,700.00
+
+Payment / Refund Bank Details (patient):
+  Account Holder: Revathi Varma
+  Bank: Axis Bank    Account No.: 81933190845205    IFSC: UTIB0796864
+
+Prepared by: Sneha Nair, Billing Desk

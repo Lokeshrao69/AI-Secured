@@ -1,0 +1,36 @@
+Deccan Sunrise Multispeciality Hospital
+CLINICAL CASE NOTE - Department of Cardiology
+
+Patient Name: Sai Nair
+Age / Sex: 58 years / Male
+UHID: DSH-26-802287
+Aadhaar No.: 6887 6634 4007
+Contact: 9534778768
+Address: Flat 802, Vasavi Homes, Road No. 45, Ameerpet, Hyderabad, Telangana 500016
+Attendant: Rahul Varma (+91 87267 14751)
+Date of Admission: 02 Aug 2026
+Consultant: Dr. Naveen Nair
+
+Presenting Complaint:
+Crushing central chest pain radiating to the left arm for 2 hours with sweating.
+
+History:
+Known hypertensive for 8 years on amlodipine 5 mg. Smoker, 20 pack-years. No prior cardiac events.
+
+Examination:
+BP 100/70 mmHg, HR 52/min, SpO2 95% on room air. S1 S2 heard, no murmur. Chest clear.
+
+Investigations:
+ECG: ST elevation in II, III, aVF. Troponin I 18.4 ng/mL. Echo: inferior wall hypokinesia, EF 45%.
+
+Assessment:
+Acute inferior wall ST-elevation myocardial infarction (STEMI).
+
+Plan:
+Loaded with aspirin 300 mg, ticagrelor 180 mg. Primary PCI to the right coronary artery (RCA) with one drug-eluting stent. Door-to-balloon time 62 minutes.
+
+Progress:
+Mr. Nair was monitored closely in the ICU / CCU. The treating team discussed the diagnosis,
+treatment plan and expected length of stay of about 5 days with the attendant, who gave informed consent.
+
+Signed: Dr. Naveen Nair, Consultant, Cardiology

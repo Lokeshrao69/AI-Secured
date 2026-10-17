@@ -1,0 +1,439 @@
+{
+  "hospital": "Deccan Sunrise Multispeciality Hospital",
+  "documents": [
+    {
+      "doc_id": "CN-001",
+      "file": "CN-001.txt",
+      "category": "case_note",
+      "title": "Case note - Cardiology - Acute inferior wall ST-elevation myocardial infarction",
+      "department": "Cardiology",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-002",
+      "file": "CN-002.txt",
+      "category": "case_note",
+      "title": "Case note - Endocrinology - Diabetic ketoacidosis",
+      "department": "Endocrinology",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-003",
+      "file": "CN-003.txt",
+      "category": "case_note",
+      "title": "Case note - Internal Medicine - Dengue fever with warning signs and severe thrombocytopenia",
+      "department": "Internal Medicine",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-004",
+      "file": "CN-004.txt",
+      "category": "case_note",
+      "title": "Case note - Pulmonology - Community-acquired pneumonia, right lower lobe",
+      "department": "Pulmonology",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-005",
+      "file": "CN-005.txt",
+      "category": "case_note",
+      "title": "Case note - General Surgery - Acute appendicitis",
+      "department": "General Surgery",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-006",
+      "file": "CN-006.txt",
+      "category": "case_note",
+      "title": "Case note - Orthopaedics - Displaced fracture neck of left femur",
+      "department": "Orthopaedics",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-007",
+      "file": "CN-007.txt",
+      "category": "case_note",
+      "title": "Case note - Pulmonology - Sputum-positive pulmonary tuberculosis",
+      "department": "Pulmonology",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-008",
+      "file": "CN-008.txt",
+      "category": "case_note",
+      "title": "Case note - Obstetrics & Gynaecology - Severe pre-eclampsia at 36 weeks gestation; delivered by emergency LSCS",
+      "department": "Obstetrics & Gynaecology",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-009",
+      "file": "CN-009.txt",
+      "category": "case_note",
+      "title": "Case note - Paediatrics - Acute gastroenteritis with moderate dehydration",
+      "department": "Paediatrics",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-010",
+      "file": "CN-010.txt",
+      "category": "case_note",
+      "title": "Case note - Nephrology - Chronic kidney disease stage 5 with hyperkalaemia; haemodialysis initiated",
+      "department": "Nephrology",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-011",
+      "file": "CN-011.txt",
+      "category": "case_note",
+      "title": "Case note - Neurology - Acute ischaemic stroke, left middle cerebral artery territory",
+      "department": "Neurology",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "CN-012",
+      "file": "CN-012.txt",
+      "category": "case_note",
+      "title": "Case note - Gastroenterology - Upper gastrointestinal bleed due to duodenal ulcer",
+      "department": "Gastroenterology",
+      "allowed_roles": [
+        "doctor"
+      ]
+    },
+    {
+      "doc_id": "DS-001",
+      "file": "DS-001.txt",
+      "category": "discharge_summary",
+      "title": "Discharge summary - Cardiology - Acute inferior wall ST-elevation myocardial infarction",
+      "department": "Cardiology",
+      "allowed_roles": [
+        "doctor",
+        "nurse"
+      ]
+    },
+    {
+      "doc_id": "DS-002",
+      "file": "DS-002.txt",
+      "category": "discharge_summary",
+      "title": "Discharge summary - Endocrinology - Diabetic ketoacidosis",
+      "department": "Endocrinology",
+      "allowed_roles": [
+        "doctor",
+        "nurse"
+      ]
+    },
+    {
+      "doc_id": "DS-003",
+      "file": "DS-003.txt",
+      "category": "discharge_summary",
+      "title": "Discharge summary - Internal Medicine - Dengue fever with warning signs and severe thrombocytopenia",
+      "department": "Internal Medicine",
+      "allowed_roles": [
+        "doctor",
+        "nurse"
+      ]
+    },
+    {
+      "doc_id": "DS-004",
+      "file": "DS-004.txt",
+      "category": "discharge_summary",
+      "title": "Discharge summary - Pulmonology - Community-acquired pneumonia, right lower lobe",
+      "department": "Pulmonology",
+      "allowed_roles": [
+        "doctor",
+        "nurse"
+      ]
+    },
+    {
+      "doc_id": "DS-005",
+      "file": "DS-005.txt",
+      "category": "discharge_summary",
+      "title": "Discharge summary - General Surgery - Acute appendicitis",
+      "department": "General Surgery",
+      "allowed_roles": [
+        "doctor",
+        "nurse"
+      ]
+    },
+    {
+      "doc_id": "DS-006",
+      "file": "DS-006.txt",
+      "category": "discharge_summary",
+      "title": "Discharge summary - Orthopaedics - Displaced fracture neck of left femur",
+      "department": "Orthopaedics",
+      "allowed_roles": [
+        "doctor",
+        "nurse"
+      ]
+    },
+    {
+      "doc_id": "DS-007",
+      "file": "DS-007.txt",
+      "category": "discharge_summary",
+      "title": "Discharge summary - Pulmonology - Sputum-positive pulmonary tuberculosis",
+      "department": "Pulmonology",
+      "allowed_roles": [
+        "doctor",
+        "nurse"
+      ]
+    },
+    {
+      "doc_id": "DS-008",
+      "file": "DS-008.txt",
+      "category": "discharge_summary",
+      "title": "Discharge summary - Obstetrics & Gynaecology - Severe pre-eclampsia at 36 weeks gestation; delivered by emergency LSCS",
+      "department": "Obstetrics & Gynaecology",
+      "allowed_roles": [
+        "doctor",
+        "nurse"
+      ]
+    },
+    {
+      "doc_id": "DS-009",
+      "file": "DS-009.txt",
+      "category": "discharge_summary",
+      "title": "Discharge summary - Pulmonology - Acute severe exacerbation of bronchial asthma",
+      "department": "Pulmonology",
+      "allowed_roles": [
+        "doctor",
+        "nurse"
+      ]
+    },
+    {
+      "doc_id": "DS-010",
+      "file": "DS-010.txt",
+      "category": "discharge_summary",
+      "title": "Discharge summary - Internal Medicine - Enteric fever",
+      "department": "Internal Medicine",
+      "allowed_roles": [
+        "doctor",
+        "nurse"
+      ]
+    },
+    {
+      "doc_id": "BL-001",
+      "file": "BL-001.txt",
+      "category": "billing",
+      "title": "Final bill - Cardiology - Primary PCI with drug-eluting stent to RCA",
+      "department": "Cardiology",
+      "allowed_roles": [
+        "billing_clerk"
+      ]
+    },
+    {
+      "doc_id": "BL-002",
+      "file": "BL-002.txt",
+      "category": "billing",
+      "title": "Final bill - Endocrinology - DKA management with IV insulin infusion",
+      "department": "Endocrinology",
+      "allowed_roles": [
+        "billing_clerk"
+      ]
+    },
+    {
+      "doc_id": "BL-003",
+      "file": "BL-003.txt",
+      "category": "billing",
+      "title": "Final bill - Internal Medicine - Single donor platelet transfusion (1 unit)",
+      "department": "Internal Medicine",
+      "allowed_roles": [
+        "billing_clerk"
+      ]
+    },
+    {
+      "doc_id": "BL-004",
+      "file": "BL-004.txt",
+      "category": "billing",
+      "title": "Final bill - General Surgery - Laparoscopic appendectomy",
+      "department": "General Surgery",
+      "allowed_roles": [
+        "billing_clerk"
+      ]
+    },
+    {
+      "doc_id": "BL-005",
+      "file": "BL-005.txt",
+      "category": "billing",
+      "title": "Final bill - Orthopaedics - Left cemented bipolar hemiarthroplasty",
+      "department": "Orthopaedics",
+      "allowed_roles": [
+        "billing_clerk"
+      ]
+    },
+    {
+      "doc_id": "BL-006",
+      "file": "BL-006.txt",
+      "category": "billing",
+      "title": "Final bill - Obstetrics & Gynaecology - Emergency lower segment caesarean section (LSCS)",
+      "department": "Obstetrics & Gynaecology",
+      "allowed_roles": [
+        "billing_clerk"
+      ]
+    },
+    {
+      "doc_id": "BL-007",
+      "file": "BL-007.txt",
+      "category": "billing",
+      "title": "Final bill - Paediatrics - IV rehydration therapy",
+      "department": "Paediatrics",
+      "allowed_roles": [
+        "billing_clerk"
+      ]
+    },
+    {
+      "doc_id": "BL-008",
+      "file": "BL-008.txt",
+      "category": "billing",
+      "title": "Final bill - Nephrology - Haemodialysis (3 sessions) with temporary catheter",
+      "department": "Nephrology",
+      "allowed_roles": [
+        "billing_clerk"
+      ]
+    },
+    {
+      "doc_id": "BL-009",
+      "file": "BL-009.txt",
+      "category": "billing",
+      "title": "Final bill - Pulmonology - Nebulisation and systemic steroids",
+      "department": "Pulmonology",
+      "allowed_roles": [
+        "billing_clerk"
+      ]
+    },
+    {
+      "doc_id": "BL-010",
+      "file": "BL-010.txt",
+      "category": "billing",
+      "title": "Final bill - Internal Medicine - IV antibiotic therapy",
+      "department": "Internal Medicine",
+      "allowed_roles": [
+        "billing_clerk"
+      ]
+    },
+    {
+      "doc_id": "POL-001",
+      "file": "POL-001.txt",
+      "category": "policy",
+      "title": "Policy - Visitor and Attendant Policy",
+      "department": "Hospital-wide",
+      "allowed_roles": [
+        "doctor",
+        "nurse",
+        "billing_clerk",
+        "admin"
+      ]
+    },
+    {
+      "doc_id": "POL-002",
+      "file": "POL-002.txt",
+      "category": "policy",
+      "title": "Policy - Hand Hygiene and Infection Control Policy",
+      "department": "Hospital-wide",
+      "allowed_roles": [
+        "doctor",
+        "nurse",
+        "billing_clerk",
+        "admin"
+      ]
+    },
+    {
+      "doc_id": "POL-003",
+      "file": "POL-003.txt",
+      "category": "policy",
+      "title": "Policy - Medication Administration and High-Alert Drugs Policy",
+      "department": "Hospital-wide",
+      "allowed_roles": [
+        "doctor",
+        "nurse",
+        "billing_clerk",
+        "admin"
+      ]
+    },
+    {
+      "doc_id": "POL-004",
+      "file": "POL-004.txt",
+      "category": "policy",
+      "title": "Policy - Patient Data Privacy and Confidentiality Policy",
+      "department": "Hospital-wide",
+      "allowed_roles": [
+        "doctor",
+        "nurse",
+        "billing_clerk",
+        "admin"
+      ]
+    },
+    {
+      "doc_id": "POL-005",
+      "file": "POL-005.txt",
+      "category": "policy",
+      "title": "Policy - Discharge Process Policy",
+      "department": "Hospital-wide",
+      "allowed_roles": [
+        "doctor",
+        "nurse",
+        "billing_clerk",
+        "admin"
+      ]
+    },
+    {
+      "doc_id": "POL-006",
+      "file": "POL-006.txt",
+      "category": "policy",
+      "title": "Policy - Billing, Deposits, Refunds and Insurance Pre-authorisation Policy",
+      "department": "Hospital-wide",
+      "allowed_roles": [
+        "doctor",
+        "nurse",
+        "billing_clerk",
+        "admin"
+      ]
+    },
+    {
+      "doc_id": "POL-007",
+      "file": "POL-007.txt",
+      "category": "policy",
+      "title": "Policy - Code Blue and Medical Emergency Response Policy",
+      "department": "Hospital-wide",
+      "allowed_roles": [
+        "doctor",
+        "nurse",
+        "billing_clerk",
+        "admin"
+      ]
+    },
+    {
+      "doc_id": "POL-008",
+      "file": "POL-008.txt",
+      "category": "policy",
+      "title": "Policy - Fall Prevention and Patient Identification Policy",
+      "department": "Hospital-wide",
+      "allowed_roles": [
+        "doctor",
+        "nurse",
+        "billing_clerk",
+        "admin"
+      ]
+    }
+  ]
+}

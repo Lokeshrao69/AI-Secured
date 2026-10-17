@@ -1,0 +1,36 @@
+Deccan Sunrise Multispeciality Hospital
+CLINICAL CASE NOTE - Department of Internal Medicine
+
+Patient Name: Mohammed Bhat
+Age / Sex: 27 years / Male
+UHID: DSH-26-777015
+Aadhaar No.: 5822 2646 8612
+Contact: +91-8776472587
+Address: Flat 204, Sri Balaji Towers, Road No. 1, Himayatnagar, Hyderabad, Telangana 500029
+Attendant: Anil Menon (6756820525)
+Date of Admission: 01 Apr 2026
+Consultant: Dr. Arjun Siddiqui
+
+Presenting Complaint:
+High-grade fever for 4 days with body ache, retro-orbital pain and gum bleeding.
+
+History:
+No comorbidities. Lives in an area with a recent dengue cluster.
+
+Examination:
+Temperature 102.4 F, BP 104/70 mmHg. Petechiae over both forearms. Mild hepatomegaly.
+
+Investigations:
+NS1 antigen positive. Platelet count 28,000/cumm on day 2, nadir 18,000/cumm. Haematocrit 46%.
+
+Assessment:
+Dengue fever with warning signs and severe thrombocytopenia.
+
+Plan:
+IV crystalloids as per WHO dengue guidelines, strict input-output charting, 6-hourly haematocrit and platelet count. Avoid NSAIDs and IM injections.
+
+Progress:
+Mr. Bhat was monitored closely in the General Ward. The treating team discussed the diagnosis,
+treatment plan and expected length of stay of about 6 days with the attendant, who gave informed consent.
+
+Signed: Dr. Arjun Siddiqui, Consultant, Internal Medicine

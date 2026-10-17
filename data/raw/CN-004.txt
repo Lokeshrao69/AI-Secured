@@ -1,0 +1,36 @@
+Deccan Sunrise Multispeciality Hospital
+CLINICAL CASE NOTE - Department of Pulmonology
+
+Patient Name: Haritha Sharma
+Age / Sex: 67 years / Female
+UHID: DSH-26-473558
+Aadhaar No.: 4185 4914 5249
+Contact: 8600130411
+Address: Flat 801, Pearl Residency, Road No. 21, Ameerpet, Hyderabad, Telangana 500016
+Attendant: Praveen Ansari (+91-7976158464)
+Date of Admission: 16 Jul 2026
+Consultant: Dr. Ayesha Pillai
+
+Presenting Complaint:
+Fever with productive cough and breathlessness for 5 days.
+
+History:
+Type 2 diabetes on metformin. No history of tuberculosis.
+
+Examination:
+RR 26/min, SpO2 89% on room air, bronchial breath sounds right lower zone.
+
+Investigations:
+Chest X-ray: right lower lobe consolidation. WBC 16,800/cumm. CRP 142 mg/L. Sputum culture: Streptococcus pneumoniae.
+
+Assessment:
+Community-acquired pneumonia, right lower lobe (CURB-65 score 2).
+
+Plan:
+Oxygen by nasal cannula to keep SpO2 above 94%. IV ceftriaxone 2 g daily plus oral azithromycin 500 mg daily. Chest physiotherapy.
+
+Progress:
+Ms. Sharma was monitored closely in the Semi-Private Ward. The treating team discussed the diagnosis,
+treatment plan and expected length of stay of about 7 days with the attendant, who gave informed consent.
+
+Signed: Dr. Ayesha Pillai, Consultant, Pulmonology

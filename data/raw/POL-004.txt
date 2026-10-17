@@ -1,0 +1,13 @@
+Deccan Sunrise Multispeciality Hospital
+HOSPITAL POLICY POL-004: Patient Data Privacy and Confidentiality Policy
+Effective: 01 Apr 2026    Review: 31 Mar 2027
+
+This policy implements the Digital Personal Data Protection Act, 2023 for all patient records.
+Access to patient records is role-based: doctors may access clinical case notes and discharge summaries of patients;
+nurses may access discharge summaries and care instructions; billing staff may access billing records only;
+administrative staff may access hospital policies only.
+Personal data such as Aadhaar numbers, phone numbers, addresses and bank details must never be shared over messaging apps,
+personal email or printed and left unattended. Aadhaar numbers must be masked to show only the last four digits on printed documents.
+Every access to the AI knowledge assistant is logged and audited monthly.
+Data breaches must be reported to the Data Protection Officer within 6 hours.
+Data Protection Officer: Kavitha Siddiqui, email kavitha.siddiqui@deccansunrise-hospital.example, phone 6052791372.

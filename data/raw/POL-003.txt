@@ -1,0 +1,11 @@
+Deccan Sunrise Multispeciality Hospital
+HOSPITAL POLICY POL-003: Medication Administration and High-Alert Drugs Policy
+Effective: 01 Apr 2026    Review: 31 Mar 2027
+
+Nurses must follow the 7 rights: right patient, right drug, right dose, right route, right time,
+right documentation and right reason. Patient identity is confirmed with two identifiers: full name and UHID.
+High-alert medicines require an independent double check by two nurses before administration: insulin infusions,
+heparin and enoxaparin, concentrated potassium chloride, magnesium sulphate, thrombolytics such as alteplase, and chemotherapy.
+Concentrated potassium chloride is never stored in ward stock; it is issued by pharmacy as premixed bags only.
+Verbal orders are allowed only in emergencies and must be countersigned by the doctor within 24 hours.
+Any medication error or near miss must be reported in the incident reporting system within 24 hours; reporting is non-punitive.

@@ -1,0 +1,11 @@
+Deccan Sunrise Multispeciality Hospital
+HOSPITAL POLICY POL-007: Code Blue and Medical Emergency Response Policy
+Effective: 01 Apr 2026    Review: 31 Mar 2027
+
+A Code Blue is called for cardiac or respiratory arrest anywhere in the hospital by dialling extension 2222
+and stating 'Code Blue' with the location. The Code Blue team (ICU doctor, anaesthetist, two ICU nurses and a
+respiratory therapist) must reach any location within 3 minutes.
+High-quality CPR follows the AHA ACLS guidelines: compression rate 100 to 120 per minute, depth 5 to 6 cm,
+minimal interruptions, and defibrillation as early as possible for shockable rhythms.
+The Rapid Response Team is called earlier, when the Early Warning Score is 5 or above, for example sudden drop in BP,
+SpO2 below 90% or new confusion. Crash carts are checked every shift and after every use, and the check is documented.

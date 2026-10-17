@@ -1,0 +1,36 @@
+Deccan Sunrise Multispeciality Hospital
+CLINICAL CASE NOTE - Department of Endocrinology
+
+Patient Name: Revathi Varma
+Age / Sex: 34 years / Female
+UHID: DSH-26-711388
+Aadhaar No.: 9283 7929 8410
+Contact: +91-8866283601
+Address: Flat 606, Sai Residency, Road No. 2, Himayatnagar, Hyderabad, Telangana 500029
+Attendant: Lakshmi Naidu (+91 95475 17799)
+Date of Admission: 05 Jan 2026
+Consultant: Dr. Rahul Menon
+
+Presenting Complaint:
+Vomiting, abdominal pain and drowsiness for 1 day after missing insulin doses.
+
+History:
+Type 1 diabetes for 12 years on basal-bolus insulin. Missed insulin for 3 days during a viral illness.
+
+Examination:
+Drowsy but arousable, GCS 14/15. Dehydrated, Kussmaul breathing. BP 96/60 mmHg, HR 118/min.
+
+Investigations:
+Blood glucose 486 mg/dL, pH 7.12, bicarbonate 9 mmol/L, serum ketones 5.8 mmol/L, potassium 5.6 mmol/L.
+
+Assessment:
+Diabetic ketoacidosis (DKA) in type 1 diabetes mellitus.
+
+Plan:
+DKA protocol: 0.9% saline resuscitation, fixed-rate IV insulin infusion at 0.1 units/kg/hour, hourly glucose and 2-hourly potassium monitoring.
+
+Progress:
+Ms. Varma was monitored closely in the HDU. The treating team discussed the diagnosis,
+treatment plan and expected length of stay of about 4 days with the attendant, who gave informed consent.
+
+Signed: Dr. Rahul Menon, Consultant, Endocrinology

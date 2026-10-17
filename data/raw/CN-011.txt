@@ -1,0 +1,36 @@
+Deccan Sunrise Multispeciality Hospital
+CLINICAL CASE NOTE - Department of Neurology
+
+Patient Name: Kavitha Varma
+Age / Sex: 66 years / Female
+UHID: DSH-26-481846
+Aadhaar No.: 3762 5280 7009
+Contact: +91 62831 66323
+Address: Flat 603, Ramky Towers, Road No. 28, Gachibowli, Hyderabad, Telangana 500032
+Attendant: Haritha Kulkarni (+91 97534 78971)
+Date of Admission: 06 Feb 2026
+Consultant: Dr. Bhavana Sharma
+
+Presenting Complaint:
+Sudden weakness of the right arm and leg with slurred speech, onset 90 minutes before arrival.
+
+History:
+Atrial fibrillation not on anticoagulation, hypertension.
+
+Examination:
+NIHSS 11. Right hemiparesis power 2/5, expressive aphasia.
+
+Investigations:
+Non-contrast CT brain: no haemorrhage. CT angiography: left M1 occlusion. ECG: atrial fibrillation.
+
+Assessment:
+Acute ischaemic stroke, left middle cerebral artery territory.
+
+Plan:
+IV alteplase 0.9 mg/kg given at 110 minutes from onset, followed by mechanical thrombectomy. Started apixaban on day 5.
+
+Progress:
+Ms. Varma was monitored closely in the Neuro ICU. The treating team discussed the diagnosis,
+treatment plan and expected length of stay of about 7 days with the attendant, who gave informed consent.
+
+Signed: Dr. Bhavana Sharma, Consultant, Neurology

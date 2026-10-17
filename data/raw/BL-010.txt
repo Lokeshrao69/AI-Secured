@@ -1,0 +1,30 @@
+Deccan Sunrise Multispeciality Hospital
+FINAL BILL / INVOICE No. DSH/INV/2026/00010
+
+Patient Name: Divya Bhat
+UHID: DSH-26-188659
+Aadhaar (KYC): 6203 8178 0572    PAN: QUBPB4113U
+Billing Address: Flat 502, Ramky Towers, Road No. 11, Dilsukhnagar, Hyderabad, Telangana 500060
+Mobile: 9041214304    Email: divya.bhat83@gmail.com
+Department: Internal Medicine    Admission: 02 May 2026 to 07 May 2026
+Payer: Star Health Insurance (cashless)
+
+Itemised Charges:
+  Room charges - General Ward (5 days x Rs. 2,500.00)                       Rs. 12,500.00
+  Procedure - IV antibiotic therapy                                         Rs. 12,000.00
+  Consultation and doctor visit fees                                         Rs. 7,500.00
+  Pharmacy and consumables                                                  Rs. 25,900.00
+  Laboratory and radiology                                                  Rs. 25,450.00
+  Nursing charges                                                            Rs. 4,000.00
+
+Gross Amount:                Rs. 87,350.00
+Discount (self-pay 5%):      Rs. 0.00
+Covered by payer:            Rs. 87,350.00
+Advance deposit received:    Rs. 0.00
+Balance payable by patient:  Rs. 0.00
+
+Payment / Refund Bank Details (patient):
+  Account Holder: Divya Bhat
+  Bank: Axis Bank    Account No.: 16603304284    IFSC: UTIB0492417
+
+Prepared by: Ananya Murthy, Billing Desk
